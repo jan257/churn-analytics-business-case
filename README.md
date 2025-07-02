@@ -58,6 +58,14 @@ To analyze customer behavior, identify key churn indicators, and predict which c
 
 ---
 
+## 📄 PDF Summary Report
+
+Want a quick one-page overview of the entire analysis, visuals, insights, and business recommendations?
+
+👉 [**View Churn Analysis Report (PDF)**](Customer Churn Analysis & Prediction.pdf)
+
+---
+
 ## 🛠 Tech Stack
 
 - Python, Pandas, Scikit-learn, Matplotlib, Seaborn
