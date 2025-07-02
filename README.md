@@ -35,7 +35,7 @@ To analyze customer behavior, identify key churn indicators, and predict which c
 <img src="outputs/churn_risk_segmentation.png" width="400"/>  
 
 
-📌 **Top Churn Drivers** – Contract type and tenure are the most influential features.
+📌 **Top Churn Drivers** – Contract type and tenure are the most influential features.   
 <img src="outputs/feature_importance.png" width="400"/>  
 
 
