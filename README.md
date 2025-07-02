@@ -84,8 +84,9 @@ customer-churn/
 │   └── churn_predictions.csv
 ├── churn_model.ipynb
 ├── logistic_churn_model.pkl
-└── Customer Churn Analysis & Prediction.pdf 
+└── Customer Churn Analysis & Prediction.pdf
 
+```
 ---
 
 ## 👩‍💻 Author
