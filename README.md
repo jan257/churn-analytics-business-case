@@ -93,7 +93,6 @@ customer-churn/
 
 **Jahnavi P**  
 📍 Bangalore, India  
-📫 [jahnavip257@gmail.com](mailto:jahnavip257@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jahnavi-p-a68788233) 
 
 ---
