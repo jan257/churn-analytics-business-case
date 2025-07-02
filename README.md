@@ -79,13 +79,12 @@ Want a quick one-page overview of the entire analysis, visuals, insights, and bu
 
 ```
 customer-churn/
+├── data/
+│   └── telco_churn.csv
+│   └── churn_predictions.csv
 ├── churn_model.ipynb
-├── churn_risk_segmentation.png
-├── feature_importance.png
-├── confusion_matrix.png
-├── roc_curve.png
-└── README.md
-```
+├── logistic_churn_model.pkl
+└── Customer Churn Analysis & Prediction.pdf 
 
 ---
 
