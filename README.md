@@ -62,7 +62,7 @@ To analyze customer behavior, identify key churn indicators, and predict which c
 
 Want a quick one-page overview of the entire analysis, visuals, insights, and business recommendations?
 
-👉 [**View Churn Analysis Report (PDF)**](Customer Churn Analysis & Prediction.pdf)
+👉 [**View Churn Analysis Report (PDF)**](https://github.com/jan257/churn-analytics-business-case/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction.pdf)
 
 ---
 
